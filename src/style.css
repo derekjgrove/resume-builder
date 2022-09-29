@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+body {
+    width: 8.5in;
+    font-family: 'Roboto', sans-serif;
+}
+ul {
+    margin-left: 1rem;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 0.25rem;
+    padding-left: 0.75rem;
+}

@@ -1,0 +1,25 @@
+{
+    "leftCol": {
+        "subtitle1": "MongoDB, Inc.",
+        "subtitle2": "Feb 2022 - Present"
+    },
+    "rightCol": {
+        "subtitle1": "Professional Services: Consulting Engineer",
+        "body": "Work with multiple client engagements",
+        "list": [
+
+            "Work directly with clients' stakeholders, architects, team leads, and other personnel",
+            "Provide expertise for many different roles and architectures",
+            "Troubleshoot and perform RCA for degraded environments",
+            "Conduct performance evaluations",
+            "Offer solutions or best practices for a given scenario",
+            "Create PoCs for specific feature compatibility",
+            "Perform code reviews in any language, focusing on correct data access patterns",
+            "Plan migration strategies",
+            "Model data based on noSQL schema designs",
+            "Create internal tools to help the PS organization"
+        ]
+    },
+    "value": 97,
+    "isFirst": true
+}

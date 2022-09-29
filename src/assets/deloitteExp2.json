@@ -1,0 +1,25 @@
+{
+    "leftCol": {
+        "subtitle1": "Deloitte Consulting LLP.",
+        "subtitle2": "Sept 2017 - Jan 2020"
+    },
+    "rightCol": {
+        "subtitle1": "MERN Full-Stack Developer",
+        "body": "GAAP Checklist",
+        "list": [
+            "Develop back-end processes using Node.js and Express.js",
+            "Implement secure APIs using JWT bearer tokens and make rest calls with NTLM authentication",
+            "Develop web pages with React.js and stylus",
+            "Create Unit tests with Mocha and Chai libraries",
+            "Abide by best application data designs and abide by OOP with ES6",
+            "Implement real-time synchronization with ShareDB and racer-highway",
+            "Provide data adjustments and other various DB reports",
+            "Determine best DB schema designs and other Data-Architect tasks",
+            "Help manage Kubernetes Pods in Non-Production environments",
+            "Migrate to Azure web services from previous On-Premise Kubernetes environment"
+        ]
+    },
+    "value": 97,
+    "isFirst": false,
+    "extraSpace": true
+}

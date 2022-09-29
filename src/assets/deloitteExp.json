@@ -1,0 +1,30 @@
+{
+    "leftCol": {
+        "subtitle1": "Deloitte Consulting LLP.",
+        "subtitle2": "Jan 2020 - Feb 2022"
+    },
+    "rightCol": {
+        "subtitle1": "MERN Full-Stack Team Lead",
+        "body": "GAAP Checklist – Global and external Audit tool built as a SPA that has real-time collaboration.",
+        "link": "https://checklist.disclosureanalytics.deloitte.com",
+        "list": [
+            "Perform code reviews and complete merge requests",
+            "Conduct sprint planning with Stake-holders and run daily scrum calls",
+            "Close any Production incidents and meet with external user[s] in case of triage",
+            "Run and plan deployments and disaster recovery tests",
+            "Increase security by working with Pen-testers and Fority scans",
+            "Use AzureAD token Validation when applications call our services",
+            "Improve performance by getting Performance Engineering team feedback and making services optimizations, React.js built-in utilities usage, memory and event-handler management",
+            "Scale application with .NET Core Webjobs and Azure ServiceBus",
+            "Re-design Real-time engine with Socket.io and Redis",
+            "Introduce Singleton design pattern on top of the Factory design pattern",
+            "Stabilize back-end by adding layered architecture",
+            "Upgrade Webpack, Babel and other build tools to allow chunking and other compression benefits",
+            "Add AzureAD through OIDC as a way to authenticate",
+            "Decomission legacy tool and work with F5 team for redirect and internal only access managed by Azure AD groups",
+            "Lead the UI over-haul, making all of the UI Omnia compliant and more modular"
+        ]
+    },
+    "value": 97,
+    "isFirst": false
+}

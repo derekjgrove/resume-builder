@@ -1,0 +1,19 @@
+{
+    "leftCol": {
+        "subtitle1": "PNC Financial Services Group, Inc.",
+        "subtitle2": "Aug 2015 - Sept 2017"
+    },
+    "rightCol": {
+        "subtitle1": "Risk Application Developer",
+        "body": "Data adjustment application built on a Java/Oracle stack. Various reports built by a BI tool were sent to regulatory agencies.",
+        "list": [
+            "Create pages with Struts framework action classes and JQuery",
+            "Develop POJOs, DAOs, and services with Java Spring framework",
+            "Develop Regulatory and Finance reports sent to the Federal Bank with AxiomSL alongside BSAs",
+            "Lead and developed automatic NDM file transfer protocol of the 2052a report to the Federal Bank with Shell and Oracle Wallet",
+            "Troubleshoot issues that occur in Oracle DB with OEM and IBM WAS",
+            "Managed Java Application deployments to IBM WAS with Jenkins and IBM uDeploy"
+        ]
+    },
+    "value": 97
+}
